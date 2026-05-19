@@ -1,0 +1,7 @@
+ssid,authentication,cipher,security_key,connection_mode
+Merrick Hollow Guest,Open,None,Absent,Connect manually
+OCguest,Open,None,Absent,Connect manually
+OCnet,WPA2-Enterprise,CCMP,Absent,Connect automatically
+MarriottBonvoy,Open,None,Absent,Connect manually
+MarkLindsted,WPA2-Personal,CCMP,[REDACTED],Connect automatically
+Jones Home,WPA2-Personal,CCMP,[REDACTED],Connect automatically
